@@ -3,7 +3,7 @@ A discord bot to help learn languages.
 
 Four commands: $, :, CC, and elab.
 
-(![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q0cHVueGtwbXM0MXF0ZnU0eTA3bTZ5Ym82emZrN3M2dTdoNXo1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8G3rCHBiCEv9W3wsnA/giphy.gifhttps://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif))
+(![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q0cHVueGtwbXM0MXF0ZnU0eTA3bTZ5Ym82emZrN3M2dTdoNXo1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8G3rCHBiCEv9W3wsnA/giphy.gifhttps://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif))
 
 ## $ 
 Gives conjugation of french verbs. If a verb is given in English it will translate.
