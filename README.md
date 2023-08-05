@@ -5,6 +5,23 @@ Four commands: $, :, CC, and elab.
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q0cHVueGtwbXM0MXF0ZnU0eTA3bTZ5Ym82emZrN3M2dTdoNXo1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8G3rCHBiCEv9W3wsnA/giphy.gifhttps://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+- Jack:  Bonjour, ça-va? Est-tu contente ce après-midi?
+French: Bonjour, ça va bien, merci ! En français, nous écrivons "es-tu" au lieu de "est-tu". Donc, tu pourrais dire "Es-tu content(e) cet après-midi ?"
+
+1. Est-tu ==> Es-tu
+2. ce après-midi ==> cet après-midi
+
+
+## Usage
+Download and run:
+1. npm install
+2. Create a discord app at https://discord.com/developers
+3. Create an OpenAI API key (free)
+4. Enter your environment variables variables into .env (OpenAI API Key, Discord Token, and Discord Channel ID)
+5. node ./index.js
+6. Now the bot is online in the discord channel.
+7. Ctrl-C to stop the bot and "node ./indexjs" to run.
+
 ## $ command
 Gives conjugation of french verbs. If a verb is given in English it will translate.
 
