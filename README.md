@@ -3,7 +3,7 @@ A discord bot to help learn languages.
 
 Four commands: $, :, CC, and elab.
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q0cHVueGtwbXM0MXF0ZnU0eTA3bTZ5Ym82emZrN3M2dTdoNXo1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8G3rCHBiCEv9W3wsnA/giphy.gifhttps://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif))
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q0cHVueGtwbXM0MXF0ZnU0eTA3bTZ5Ym82emZrN3M2dTdoNXo1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8G3rCHBiCEv9W3wsnA/giphy.gifhttps://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## $ command
 Gives conjugation of french verbs. If a verb is given in English it will translate.
@@ -41,7 +41,7 @@ elab -LANGUAGE_CODE
 elab gives support for English (-e), French (-f), Arabic (-Ar), Spanish (-Sp), Portuguese (-Po), German (-Ge), Russian (-Ru), Swahili (-Sw), Serbo-Croatian (-Se), Italian (-It), Malay (-Ma), Dutch (-Du), Persian (-Pe), Sotho (-So), Tswana (-Ts), Albanian (-Al), Romanian (-Ro), Somali (-S), Turkish (-Tu), Aymara (-Ay), Berber (-Be), Chichewa (-Ch), Greek (-Gr), Guarani (-Gu), Hindustani (-Hi), Korean (-Ko), Quechua (-Qu), Rwanda-Rundi (-Rw), Swati (-Sw), Swedish (-Swe), Tamil (-Ta), Tigrinya (-Ti), Venda (-Ve), Xhosa (-Xh), Armenian (-A)
 
 ## Demos
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZua2NuY3pjbGt4YzFrZjJlOG1zeGN1cThvbm9oazFtMmgxZnFkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIqV5KwGxoP3ZZTRvx/giphy.gif))
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZua2NuY3pjbGt4YzFrZjJlOG1zeGN1cThvbm9oazFtMmgxZnFkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIqV5KwGxoP3ZZTRvx/giphy.gif)
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhhM3AwNDAwZWpkNjI1eml6ODM3cnJzOTBlMmFnaGt2eG9jOWY1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJ3szf0hQOqsoDHn25/giphy.gif))
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhhM3AwNDAwZWpkNjI1eml6ODM3cnJzOTBlMmFnaGt2eG9jOWY1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJ3szf0hQOqsoDHn25/giphy.gif)
 
