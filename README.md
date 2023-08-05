@@ -5,7 +5,7 @@ Four commands: $, :, CC, and elab.
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q0cHVueGtwbXM0MXF0ZnU0eTA3bTZ5Ym82emZrN3M2dTdoNXo1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8G3rCHBiCEv9W3wsnA/giphy.gifhttps://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif))
 
-## $ 
+## $ command
 Gives conjugation of french verbs. If a verb is given in English it will translate.
 
 ### Usage: 
@@ -16,12 +16,12 @@ Gives conjugation of french verbs. If a verb is given in English it will transla
 - \$ameloirer passe compose
 - \$run futur proche
 
-## :
+## : command
 Conversational partner in French. Bot recalls previous 15 message between you and itself and will point out mistakes, give corrections, and be an all around cool dude to chat with.
 
 ### Example dialogue
 
-## CC
+## CC command
 Traditional Chinese character generation based on the prompt given.
 
 ### Usage:
@@ -32,7 +32,7 @@ should be run after CC -c and gives a Chinese proverb containing the characters.
 - CC 
 summarizes your last 15 messages with the bot in Traditional Mandarin.
 
-## elab (Elaborate)
+## elab (Elaborate) command
 Elaborates on the previous response from the bot in the specified language. If no language is specified it will elaborate on what it said.
 
 ### Usage:
