@@ -31,8 +31,6 @@ gives three characters based on the prompt
 should be run after CC -c and gives a Chinese proverb containing the characters.
 - CC 
 summarizes your last 15 messages with the bot in Traditional Mandarin.
-### Examples:
-    CC -c
 
 ## elab (Elaborate)
 Elaborates on the previous response from the bot in the specified language. If no language is specified it will elaborate on what it said.
@@ -44,4 +42,5 @@ elab gives support for English (-e), French (-f), Arabic (-Ar), Spanish (-Sp), P
 
 ## Demos
 ![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZua2NuY3pjbGt4YzFrZjJlOG1zeGN1cThvbm9oazFtMmgxZnFkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIqV5KwGxoP3ZZTRvx/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZua2NuY3pjbGt4YzFrZjJlOG1zeGN1cThvbm9oazFtMmgxZnFkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIqV5KwGxoP3ZZTRvx/giphy.gif)
+
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q0cHVueGtwbXM0MXF0ZnU0eTA3bTZ5Ym82emZrN3M2dTdoNXo1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8G3rCHBiCEv9W3wsnA/giphy.gifhttps://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
